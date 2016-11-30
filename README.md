@@ -9,3 +9,5 @@ Tested Algorithms:
 - Quick sort AND a modified Quick sort
 - Selection sort
 - Shaker sort
+
+There is also a chart that shows the different results of each sorting algorithm.
